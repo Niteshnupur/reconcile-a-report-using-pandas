@@ -40,3 +40,5 @@ Feb	 -----------------                          Amount in doller
 Mar	 -----------------                          Amount in doller
 
 
+In this dataset we have to perform mapping also and we have to perform apply as well as lambda function.
+
